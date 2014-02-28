@@ -12,4 +12,5 @@ Notice that the mercurial module is not supported in Python3, so we have to use
 Python 2.7
 
 Images look like this:
+
 ![](http://www.javiertordable.com/img/github-like-activity-chart.png)
