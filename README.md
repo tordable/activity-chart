@@ -13,4 +13,4 @@ Python 2.7
 
 Images look like this:
 
-![](http://www.javiertordable.com/img/github-like-activity-chart.png)
+![](https://www.javiertordable.com/images/github-like-activity-chart.png)
